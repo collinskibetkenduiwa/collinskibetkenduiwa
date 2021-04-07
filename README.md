@@ -21,11 +21,13 @@ Software engineer/Fullstack developer/Innovator/IT technician with expertise in 
     Sklearn | pandas |matplotlib |beautifulSoup |Selenium |Keras |Opencv
     
 **** Databases & Storage****
+
     Sqlite
     Mysql 
     PostgreSQL
 
 **Cloud & Hosting
+
     AWS | Google Cloud
     Heroku
  
@@ -40,11 +42,13 @@ Software engineer/Fullstack developer/Innovator/IT technician with expertise in 
     BitBucket
 
 **Code Editor and Environment**
+
 VSCode | Sublime | Vim | Nano
 Pycharm,IntelliJ
 
 
 **How to reach me !!**
+
 kibetcollinskenduiwa@gmail.com 
 
 <!--
