@@ -12,10 +12,12 @@ Software engineer/Fullstack developer/Innovator/IT technician with expertise in 
     Bootstrap and WordPress
     
 **Frameworks**
+
     Web Frameworks
     Django,CodeIgnitor
     
 **Data Science (ML/AI)**
+
     Sklearn | pandas |matplotlib |beautifulSoup |Selenium |Keras |Opencv
     
 **** Databases & Storage****
