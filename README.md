@@ -1,6 +1,7 @@
 ### Hi there I'm Collins Kibet
 
-Software engineer/Fullstack developer/Innovator/IT technician with expertise in buidling web and mobile backends,solutions in Data Science and IoT architectures
+Software engineer/Fullstack developer/Innovator/IT technician with expertise in buidling web and mobile backends,solutions in Data Science and IoT architectures.
+
 By utilizing latest technology and frameworks, i design, build, and deliver client-centric and industry specific-Web and App Development Solutions
 
 
