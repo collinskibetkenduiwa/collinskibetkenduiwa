@@ -30,7 +30,11 @@ Software engineer/Fullstack developer/Innovator/IT technician with expertise in 
 
     AWS | Google Cloud
     Heroku
- 
+    
+**API Testing**
+
+   Postman
+   
 **Distros**
 
   Ubuntu | Debian | OpenSUse |kali | Pop
