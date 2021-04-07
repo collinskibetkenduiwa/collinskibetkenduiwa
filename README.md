@@ -2,26 +2,48 @@
 
 Software engineer/Fullstack developer/Innovator/IT technician with expertise in buidling web and mobile backends,solutions in Data Science and IoT architectures
 
+
 **My tech stack**
-***** Programming languages****
+
+**Programming languages**
+
     Python Java Javascript
     Html | Css | Yaml | Json
     Bootstrap and WordPress
+    
 **Frameworks**
     Web Frameworks
     Django,CodeIgnitor
-**** Data Science (ML/AI)****
+    
+**Data Science (ML/AI)**
     Sklearn | pandas |matplotlib |beautifulSoup |Selenium |Keras |Opencv
+    
 **** Databases & Storage****
     Sqlite
     Mysql 
     PostgreSQL
-  **Cloud & Hosting
-  AWS | Google Cloud
-  Heroku
-Distros
 
-  Ubuntu | Deepin | Kali
+**Cloud & Hosting
+    AWS | Google Cloud
+    Heroku
+ 
+**Distros**
+
+  Ubuntu | Debian | OpenSUse |kali | Pop
+  
+**Version Control**
+
+    Git | Github
+    Gitlab
+    BitBucket
+
+**Code Editor and Environment**
+VSCode | Sublime | Vim | Nano
+Pycharm,IntelliJ
+
+
+**How to reach me !!**
+kibetcollinskenduiwa@gmail.com 
 
 <!--
 **collinskibetkenduiwa/collinskibetkenduiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
