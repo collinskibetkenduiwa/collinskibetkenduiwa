@@ -26,7 +26,7 @@ Software engineer/Fullstack developer/Innovator/IT technician with expertise in 
     Mysql 
     PostgreSQL
 
-**Cloud & Hosting
+**Cloud & Hosting**
 
     AWS | Google Cloud
     Heroku
