@@ -16,7 +16,7 @@ By utilizing latest technology and frameworks, i design, build, and deliver clie
 **Frameworks**
 
     Web Frameworks
-    Django,CodeIgnitor
+    Django,Flask,CodeIgnitor
     
 **Data Science (ML/AI)**
 
